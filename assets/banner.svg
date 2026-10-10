@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
-  <title id="title">Ximenes — projetos e código</title>
+  <title id="title">ximenes — projetos e código</title>
   <desc id="desc">Cabeçalho minimalista em cinza escuro, com tipografia clara e alinhamento à esquerda.</desc>
   <rect width="1200" height="260" fill="#0d1117"/>
   <text x="48" y="65" fill="#9198a1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" letter-spacing="2">VINISCXIMENES</text>
-  <text x="44" y="144" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="62" font-weight="600">Ximenes</text>
+  <text x="44" y="144" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="62" font-weight="600">ximenes</text>
   <text x="48" y="189" fill="#9198a1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22">Projetos, ideias e código.</text>
   <path d="M48 235H1152" stroke="#30363d"/>
 </svg>
