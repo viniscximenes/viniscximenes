@@ -1,17 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
-<title id="title">Ximenes</title><desc id="desc">Banner preto com arcos góticos e detalhes em vermelho escuro.</desc>
-<rect width="1200" height="400" fill="#09090c"/>
-<rect x="18" y="18" width="1164" height="364" rx="2" fill="none" stroke="#35151d"/>
-<g fill="none" stroke="#661d2d" stroke-width="1">
-<path d="M65 350V195Q65 105 140 54Q215 105 215 195V350M80 350V198Q80 124 140 76Q200 124 200 198V350"/>
-<path d="M985 350V195Q985 105 1060 54Q1135 105 1135 195V350M1000 350V198Q1000 124 1060 76Q1120 124 1120 198V350"/>
-<path d="M140 97V333M91 229H189M1060 97V333M1011 229H1109" opacity=".5"/>
-<circle cx="140" cy="175" r="27"/><circle cx="1060" cy="175" r="27"/>
-<path d="M140 148L167 175L140 202L113 175ZM1060 148L1087 175L1060 202L1033 175Z"/>
-<path d="M280 200H345M855 200H920M380 302H565M635 302H820"/>
-</g>
-<g fill="#9e3045"><path d="M600 70L606 82L600 94L594 82Z"/><path d="M600 294L608 302L600 310L592 302Z"/></g>
-<text x="600" y="137" text-anchor="middle" fill="#a88189" font-family="monospace" font-size="12" letter-spacing="5">VINISCXIMENES</text>
-<text x="607" y="235" text-anchor="middle" fill="#c44b62" font-family="Georgia, 'Times New Roman', serif" font-size="76" letter-spacing="14">XIMENES</text>
-<text x="600" y="272" text-anchor="middle" fill="#8e858a" font-family="monospace" font-size="11" letter-spacing="4">ENTRE SOMBRAS E CÓDIGO</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Ximenes — projetos e código</title>
+  <desc id="desc">Cabeçalho minimalista em cinza escuro, com tipografia clara e alinhamento à esquerda.</desc>
+  <rect width="1200" height="260" fill="#0d1117"/>
+  <text x="48" y="65" fill="#9198a1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" letter-spacing="2">VINISCXIMENES</text>
+  <text x="44" y="144" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="62" font-weight="600">Ximenes</text>
+  <text x="48" y="189" fill="#9198a1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22">Projetos, ideias e código.</text>
+  <path d="M48 235H1152" stroke="#30363d"/>
 </svg>
