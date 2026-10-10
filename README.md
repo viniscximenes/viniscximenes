@@ -1,4 +1,4 @@
-<img src="./assets/banner.svg" width="100%" alt="Ximenes — projetos, ideias e código." />
+<img src="./assets/banner.svg?v=2" width="100%" alt="Ximenes — projetos, ideias e código." />
 
 <p>
   <a href="https://github.com/viniscximenes?tab=repositories">Explorar projetos</a>
