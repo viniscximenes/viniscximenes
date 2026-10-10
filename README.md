@@ -1,11 +1,7 @@
-<p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Ximenes — entre sombras e código. Banner preto com arcos góticos em vermelho escuro." />
-</p>
+<img src="./assets/banner.svg" width="100%" alt="Ximenes — projetos, ideias e código." />
 
-<p align="center">
-  <a href="https://github.com/viniscximenes?tab=repositories">REPOSITÓRIOS</a>
+<p>
+  <a href="https://github.com/viniscximenes?tab=repositories">Explorar projetos</a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/viniscximenes?tab=stars">FAVORITOS</a>
+  <a href="https://github.com/viniscximenes?tab=stars">Favoritos</a>
 </p>
-
-<p align="center"><sub>viniscximenes &nbsp; / &nbsp; arquivo de projetos</sub></p>
